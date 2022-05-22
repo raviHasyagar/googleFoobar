@@ -7,5 +7,5 @@ Each folder has the problems and detailed solution and sample test cases as I pr
 ## Current Status
 I was able to progress through 4 levels of my plan. Lambda's space station is exploding. But now, he is chasing me in a heavily-armed starfighter, while you and the bunny workers are stuck in these lumbering escape pods.
 
-Refer to ['journal.txt'](journal.txt) for my journey so far
+Refer to [journal.txt](journal.txt) for my journey so far
 
