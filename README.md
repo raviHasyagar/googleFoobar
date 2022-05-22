@@ -1,6 +1,8 @@
 # Google FooBar
 This repository has detailed explanation and codes of my journey through Google's FooBar challenge to destroy Commander Lambda's evil organization.
 
+![foobar](src/foobar.png)
+
 ## Structure
 Each folder has the problems and detailed solution and sample test cases as I progress through multiple phases of my strategy to weaken Commander Lambda.
 
